@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m styied at National Vocational Training Authority In Sri Lanka
+🔭 I’m studied at National Vocational Training Authority In Sri Lanka
 - 🌱 I’m currently learning Software Developer Course
 - 📫 How to reach me: kdpjayathilakavta@gmail.com
 <!--
