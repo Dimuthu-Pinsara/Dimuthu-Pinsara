@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://dimuthu-pinsara.vercel.app/_next/image?url=%2Fdimuthu.png&w=128&q=75" style="border-radius:100%;" width="100"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dimuthu-pinsara-2a8612262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
