@@ -30,7 +30,7 @@
 - 📝 Exploring **Technical Content Writing** and sharing knowledge
 - ⚡ In my free time, I solve problems on Daily Dev and read tech articles
 - 🌱 Always learning and growing in the tech world
-- 📫 How to reach me: **pinsaradimuthu@gmail.com**
+- 📫 How to reach me: **dimuthupinsara@gmail.com**
 - 💬 Ask me about anything tech related, I am happy to help
 
 <br>
@@ -97,10 +97,14 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimuthu-Pinsara&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true" alt="Dimuthu's Activity Graph" />
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Dimuthu-Pinsara/Dimuthu-Pinsara/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dimuthu-Pinsara/Dimuthu-Pinsara/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dimuthu-Pinsara/Dimuthu-Pinsara/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Dimuthu-Pinsara/Dimuthu-Pinsara/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
