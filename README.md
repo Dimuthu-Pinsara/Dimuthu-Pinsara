@@ -97,10 +97,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimuthu-Pinsara&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true" alt="Dimuthu's Activity Graph" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dimuthu-Pinsara/Dimuthu-Pinsara/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
