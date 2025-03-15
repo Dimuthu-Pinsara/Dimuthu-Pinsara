@@ -74,7 +74,7 @@
   <a href="mailto:pinsaradimuthu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/dimuthu-pinsara/">
+  <a href="https://www.linkedin.com/in/dimuthu-pinsara-2a8612262/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/DimuthuPinsara">
