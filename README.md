@@ -71,7 +71,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Connect with Me</b>
 
 <p align="center">
-  <a href="mailto:pinsaradimuthu@gmail.com">
+  <a href="mailto:dimuthupinsara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/dimuthu-pinsara-2a8612262/">
@@ -80,7 +80,7 @@
   <a href="https://twitter.com/DimuthuPinsara">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.facebook.com/dimuthu.pinsara">
+  <a href="https://www.facebook.com/profile.php?id=100010457925828">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/dimuthu_pinsara/">
